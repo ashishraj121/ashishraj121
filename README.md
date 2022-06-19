@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishraj121
 - 👀 I’m interested in coding..
-- 🌱 I’m currently learning new programminig languages..
+- 🌱 I’m currently learning new programming languages..
 - 💞️ I’m looking to collaborate on multi-national companies..
 - 📫 How to reach me ...
 
